@@ -17,7 +17,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- Various C programming language projects Python And FrontEnd WebDev.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
