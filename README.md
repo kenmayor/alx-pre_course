@@ -18,7 +18,7 @@
 
 ## General Information
 - Various C programming language projects Python And FrontEnd WebDev.
-- Understanding hoe to collaborate remotely using slack, git hub and linux server.
+- Understanding how to collaborate remotely using slack, git hub and linux server.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
